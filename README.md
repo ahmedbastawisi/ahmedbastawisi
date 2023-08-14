@@ -1,8 +1,8 @@
 ## Hi 👋 My name is Ahmed El-bastawisi
 
-### Software Engineer
+### Senior Software Engineer
 
-Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled full stack .NET developer. Strong engineering professional with a bachelor's degree focused on Computer Science from Computer Engineering and Control Systems, Mansoura University.
+Experienced Senior Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled full stack .NET developer. Strong engineering professional with a bachelor's degree focused on Computer Science from Computer Engineering and Systems, Mansoura University.
 
 * 🌍  I'm based in Mansoura, Egypt
 * 🖥️  See my Portfolio at [ahmedbastawisi.github.io](https://ahmedbastawisi.github.io)
