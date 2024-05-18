@@ -10,4 +10,4 @@ Experienced Senior Software Engineer with a demonstrated history of working in t
 
 ### Skills
 C#, ASP.NET Core MVC, EF Core, SQL, SignalR, Webrtc, Python,
-HTML, CSS, JavaScript, TypeScript, React, Angular, jQuery
+HTML, CSS, JavaScript, TypeScript, Blazor, React, Angular, jQuery
